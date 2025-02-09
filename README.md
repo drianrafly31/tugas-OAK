@@ -10,11 +10,11 @@ featured: "featured.id.png"
 
 ## Pendahuluan
 
-{{< lead >}}
+
 
 Sebagai seorang yang awam, memilih sistem operasi yang matang sangat penting untuk produktivitas dan efisiensi kerja. 
 Diantara sistem operasi paling populer adalah Windows dan Linux. Masing-masing memiliki kelebihan dan kekurangan tergantung pada kebutuhan pengembangan.
-{{< /lead >}}
+
 ![confused](./work.gif)
 <!-- <img src="./kado.gif" alt="confused" width="100" /> -->
 
@@ -46,14 +46,11 @@ Diantara sistem operasi paling populer adalah Windows dan Linux. Masing-masing m
 
 ### 5. Keamanan
 
-{{< alert icon="triangle-exclamation" cardColor="#9d70ff55" iconColor="#ff4ff3" textColor="#f1faee" >}}
-Windows: Rentan terhadap [<abbr title="Malware">malware</abbr>](https://id.wikipedia.org/wiki/Perangkat_pembahaya) karena banyak digunakan, tetapi memiliki [<abbr class="list-none decoration-neutral-500 hover:underline hover:decoration-2 hover:underline-offset-2" title="Windows Defender">Windows Defender</abbr>](ms-settings:windowsdefender) sebagai perlindungan.
-{{< /alert >}}
+* Windows: Rentan terhadap [<abbr title="Malware">malware</abbr>](https://id.wikipedia.org/wiki/Perangkat_pembahaya) karena banyak digunakan, tetapi memiliki [<abbr class="list-none decoration-neutral-500 hover:underline hover:decoration-2 hover:underline-offset-2" title="Windows Defender">Windows Defender</abbr>](ms-settings:windowsdefender) sebagai perlindungan.
 
 
-{{< alert icon="lock" cardColor="#87b8ff77" iconColor="#51d5ff" textColor="#f1faee" >}}
-Linux: Lebih aman secara default, karena sistem permission lebih <abbr title="Ketat">ketat</abbr> dan jarang menjadi target [<abbr title="Serangan Malware">serangan malware</abbr>](https://id.wikipedia.org/wiki/Serangan_dunia_maya_di_Indonesia).
-{{< /alert >}}
+* Linux: Lebih aman secara default, karena sistem permission lebih <abbr title="Ketat">ketat</abbr> dan jarang menjadi target [<abbr title="Serangan Malware">serangan malware</abbr>](https://id.wikipedia.org/wiki/Serangan_dunia_maya_di_Indonesia).
+
 
 
 
@@ -75,48 +72,14 @@ Linux: Lebih aman secara default, karena sistem permission lebih <abbr title="Ke
 
 | Kriteria              | Windows        | Linux           |
 |-----------------------|----------------|-----------------|
-| *Kemudahan Pakai*   | {{< icon "check" >}} Mudah      | {{< icon "xmark" >}} Butuh Pembelajaran |
-| *Dukungan Software* | {{< icon "check" >}} Luas       | {{< icon "xmark" >}} Terbatas         |
-| *Performa*          | {{< icon "xmark" >}} Berat      | {{< icon "check" >}} Ringan         |
-| *Keamanan*          | {{< icon "xmark" >}} Rentan     | {{< icon "check" >}} Lebih Aman    |
-| *Pengembangan Web*  | {{< icon "check" >}} Baik       | {{< icon "check" >}} Terbaik       |
-| *Harga*             | {{< icon "xmark" >}} Berbayar   | {{< icon "check" >}} Gratis       |
+| *Kemudahan Pakai*   |  Mudah      |  Butuh Pembelajaran |
+| *Dukungan Software* |  Luas       |  Terbatas         |
+| *Performa*          |  Berat      |  Ringan         |
+| *Keamanan*          |  Rentan     |  Lebih Aman    |
+| *Pengembangan Web*  |  Baik       | Terbaik       |
+| *Harga*             |  Berbayar   |  Gratis        |
 
-### Perbandingan
-{{< chart >}}
-type: 'doughnut',
-data: {
-  labels: ['Keamanan', 'Kompabilitas', 'Ukuran'],
-  datasets: [{
-    label: 'Windows',
-    data: [20, 30, 50],
-    backgroundColor: [
-      'rgba(157, 112, 255, 0.33)',
-      'rgba(135, 184, 255, 0.47)',
-      'rgba(24, 25, 66, 0.6)'
-    ],
-    borderWidth: 0,
-    hoverOffset: 4
-  },
-  {
-    label: 'Linux',
-    data: [50, 20, 30],
-    backgroundColor: [
-      'rgba(157, 112, 255, 0.33)',
-      'rgba(135, 184, 255, 0.47)',
-      'rgba(24, 25, 66, 0.6)'
-    ],
-    borderWidth: 0,
-    hoverOffset: 4
-  }
-  ]
-}
-{{< /chart >}}
+## Gambar Windows Task Manager
 
-{{< keyword icon="microsoft" >}} Gunakan Windows {{< /keyword >}} Jika anda butuh kompatibilitas software luas dan ingin kemudahan tanpa perlu banyak konfigurasi, Maka Windows pilihan yang tepat untuk pengguna umum. 
+![Screenshot (43)](https://github.com/user-attachments/assets/d61a60b6-cfe9-41d1-a6a6-41c3de564849)
 
-{{< keyword icon="pgpkey" >}} Gunakan Linux {{< /keyword >}} Jika Anda mengembangkan aplikasi open-source, ingin kontrol lebih besar atas sistem, atau bekerja di bidang server dan cloud computing, Maka Linux adalah pilihan yang bagus untuk pengguna tingkat lanjut.
-
-![faq](./planet.gif)
-
-## FAQ
