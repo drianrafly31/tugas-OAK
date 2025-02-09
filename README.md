@@ -83,3 +83,8 @@ Diantara sistem operasi paling populer adalah Windows dan Linux. Masing-masing m
 
 ![Screenshot (43)](https://github.com/user-attachments/assets/d61a60b6-cfe9-41d1-a6a6-41c3de564849)
 
+## Gambar Linux Task Manager
+
+![WhatsApp Image 2025-02-03 at 21 40 25_7fb2bbac](https://github.com/user-attachments/assets/83e4794f-6a16-4c0c-98ae-3b08376bca5c)
+
+
