@@ -1,13 +1,3 @@
----
-title: "Windows vs Linux: Mana yang Lebih Cocok untuk Programmer?"
-date: 2025-01-29T10:37:46+07:00
-draft: false
-tags: ["Windows", "Linux", "Programming", "Developer"]
-categories: ["Teknologi", "Perbandingan"]
-summary: "Perbandingan Windows dan Linux untuk penggunaan: kelebihan, kekurangan, dan mana yang lebih cocok untuk coding."
-featured: "featured.id.png"
----
-
 ## Pendahuluan
 
 
